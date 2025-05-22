@@ -1,43 +1,52 @@
-# Chirpy Starter
+# 🧠 My Digital Lab – Cybersecurity, Code & Curiosity
 
-[![Gem Version](https://img.shields.io/gem/v/jekyll-theme-chirpy)][gem]&nbsp;
-[![GitHub license](https://img.shields.io/github/license/cotes2020/chirpy-starter.svg?color=blue)][mit]
+![Last Commit](https://img.shields.io/github/last-commit/asasingh14/asasingh14?color=cyan&logo=github&logoColor=white&style=flat-square)
+![Security Focused](https://img.shields.io/badge/focus-cybersecurity-critical?logo=linux&style=flat-square&color=red)
+![GitHub Actions](https://img.shields.io/github/actions/workflow/status/asasingh14/asasingh14/pages-build-deployment.yml?label=deployed&logo=githubactions&style=flat-square&color=blueviolet)
 
-When installing the [**Chirpy**][chirpy] theme through [RubyGems.org][gem], Jekyll can only read files in the folders
-`_data`, `_layouts`, `_includes`, `_sass` and `assets`, as well as a small part of options of the `_config.yml` file
-from the theme's gem. If you have ever installed this theme gem, you can use the command
-`bundle info --path jekyll-theme-chirpy` to locate these files.
+![Profile Views](https://komarev.com/ghpvc/?username=asasingh14&label=Profile%20Views&color=blueviolet&style=flat-square)
+![Top Langs](https://img.shields.io/github/languages/top/asasingh14/asasingh14?style=flat-square&color=orange)
+![Code Size](https://img.shields.io/github/languages/code-size/asasingh14/asasingh14?style=flat-square&color=lightgrey)
+![Repo Stars](https://img.shields.io/github/stars/asasingh14/asasingh14?style=flat-square&color=yellow)
 
-The Jekyll team claims that this is to leave the ball in the user’s court, but this also results in users not being
-able to enjoy the out-of-the-box experience when using feature-rich themes.
+### 🌐 Live Site: [asasingh14.github.io](https://asasingh14.github.io)
 
-To fully use all the features of **Chirpy**, you need to copy the other critical files from the theme's gem to your
-Jekyll site. The following is a list of targets:
+---
 
-```shell
-.
-├── _config.yml
-├── _plugins
-├── _tabs
-└── index.html
-```
+### 👨‍💻 About Me
 
-To save you time, and also in case you lose some files while copying, we extract those files/configurations of the
-latest version of the **Chirpy** theme and the [CD][CD] workflow to here, so that you can start writing in minutes.
+Hey — I’m a developer with a security-first mindset who enjoys breaking, building, and automating things. This space serves as my digital journal: a mix of hacking notes, custom tools, and reflections from the trenches.
 
-## Usage
+You’ll find:
 
-Check out the [theme's docs](https://github.com/cotes2020/jekyll-theme-chirpy/wiki).
+- 🔐 Writeups from CTFs, bug bounty labs, and malware investigations  
+- 🛠️ Automation scripts, tooling, and proof-of-concepts  
+- 📓 Thoughts on reverse engineering, offensive workflows, and cyber hygiene  
+- 📄 A CV-style look at my background, skills, and projects
 
-## Contributing
+If it runs on a CLI or hits an endpoint, I’m probably into it.
 
-This repository is automatically updated with new releases from the theme repository. If you encounter any issues or want to contribute to its improvement, please visit the [theme repository][chirpy] to provide feedback.
+---
 
-## License
+### 🧰 Stack & Interests
 
-This work is published under [MIT][mit] License.
+- **Languages:** Python, Java, Scala,  JavaScript, Bash
+- **Tools:** Burp Suite, Ghidra, Wireshark, nmap
+- **Environments:** Arch, Kali, Docker, GitHub Actions  
+- **Focus Areas:** Recon, Exploitation, Automation, Offensive Security
 
-[gem]: https://rubygems.org/gems/jekyll-theme-chirpy
-[chirpy]: https://github.com/cotes2020/jekyll-theme-chirpy/
-[CD]: https://en.wikipedia.org/wiki/Continuous_deployment
-[mit]: https://github.com/cotes2020/chirpy-starter/blob/master/LICENSE
+---
+
+### 🤝 Let’s Connect
+
+I’m always up for a good conversation — whether it’s about code, exploits, or odd bugs. Fork something, star a repo, or reach out directly if anything sparks your interest.
+
+---
+
+### 📝 License
+
+All content is released under the MIT License, unless stated otherwise.
+
+---
+
+### 🔍 Explore the Lab → [asasingh14.github.io](https://asasingh14.github.io)
