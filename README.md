@@ -2,7 +2,7 @@
 
 ![Last Commit](https://img.shields.io/github/last-commit/asasingh14/asasingh14.github.io?color=cyan&logo=github&logoColor=white&style=flat-square)
 ![Security Focused](https://img.shields.io/badge/focus-cybersecurity-critical?logo=linux&style=flat-square&color=red)
-![GitHub Actions](https://img.shields.io/github/actions/workflow/status/asasingh14/asasingh14.github.io/pages-build-deployment.yml?label=deployed&logo=githubactions&style=flat-square&color=blueviolet)
+![GitHub Actions](https://img.shields.io/github/actions/workflow/status/asasingh14/asasingh14.github.io/pages-deploy.yml?label=deployed&logo=githubactions&style=flat-square&color=green)
 
 ![Profile Views](https://komarev.com/ghpvc/?username=asasingh14&label=Profile%20Views&color=blueviolet&style=flat-square)
 ![Top Langs](https://img.shields.io/github/languages/top/asasingh14/asasingh14.github.io?style=flat-square&color=orange)
